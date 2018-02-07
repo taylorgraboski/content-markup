@@ -14,3 +14,18 @@ mark {
 }
 /* just selected the redlining class instead of the bold tag. use a period to
 select class*/
+ins {
+    color: #f00;
+  }
+/*hexidecimal color. Black to White, with grayscale in between
+0123456789abcdef
+*/
+.underline {
+    text-decoration: underline;
+    }
+.italic {
+    font-style: italic;
+    }
+.small-caps {
+    font-variant: small-caps;
+    }
